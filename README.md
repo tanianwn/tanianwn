@@ -13,6 +13,7 @@ I am a student passionate to learn with a clear vision: to change the world of t
 </a>
 
 ![Tania's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanianwn&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanianwn&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanianwn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
