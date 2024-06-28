@@ -9,7 +9,7 @@ I am a student passionate to learn with a clear vision: to change the world of t
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanianwn&theme=rose" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanianwn&theme=rose&layout=compact&langs_count=8&card_width=320"/>
+  <img height=100 align="center" src="https://github-readme-stats-private-repos.vercel.app/api/top-langs?username=tanianwn&theme=rose&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 ## 🏆 GitHub Trophies
