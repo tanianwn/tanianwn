@@ -1,6 +1,6 @@
 ## Hallo! I am Tania Sofia Arrazola Bello 🍓
 
-👩‍💻 **Robotics & Systems Engineering Student at ITESM**  
+🌸 **Robotics & Systems Engineering Student at ITESM**  
 💡 Passionate about **innovation, AI, and robotics**  
 🎯 Goal: Transform the world through technology  
 
@@ -14,24 +14,16 @@ I believe that technology not only **solves problems** but also **inspires and d
 
 ### Skills & Interests
 
-### Skills & Interests
-
 | Programming & Tools | Hardware & Platforms | Interests |
 |--------------------|------------------|----------|
 | ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FB0000?style=flat&logo=MATLAB&logoColor=white) | Arduino, Raspberry Pi, FPGA | Robotics, AI, Embedded Systems |
 | ![VHDL](https://img.shields.io/badge/-VHDL-990000?style=flat&logo=&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Sensors & Actuators, 3D Printing | Signal Analysis, Autonomous Systems |
 
 
----
-
-### Leadership & Activities
-- **Women For The Future Puebla:** Project Coordinator – empowering young women in tech  
-- **TODXS:** Projects Committee Member – promoting gender inclusion in tech  
-- **TecBytes:** Programming group member – coding challenges & mini-projects  
 
 ---
 
-### Quote
+### .             *    .          *    .  Quote .             *         .          *    .  
 > "The people who are crazy enough to think they can change the world are the ones who do."  
 > – Steve Jobs
 
