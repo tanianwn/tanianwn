@@ -24,14 +24,6 @@ I believe that technology not only **solves problems** but also **inspires and d
 
 ---
 
-### Projects (Highlights)
-- **Vision-based Line Follower:** Real-time image processing algorithm for adaptive line-following  
-- **Differential Robot Control:** Differential drive algorithms for precise navigation  
-- **IoT Habitat Controller:** Multi-device IoT system for temperature, humidity, and lighting  
-*(More projects on [GitHub](https://github.com/tanianwn) and E-lumen)*
-
----
-
 ### Leadership & Activities
 - **Women For The Future Puebla:** Project Coordinator – empowering young women in tech  
 - **TODXS:** Projects Committee Member – promoting gender inclusion in tech  
