@@ -18,6 +18,7 @@ I believe that technology not only **solves problems** but also **inspires and d
 |--------------------|------------------|----------|
 | C, C++, Python, MATLAB | Arduino, Raspberry Pi, FPGA | Robotics, AI, Embedded Systems |
 | VHDL, OpenCV, PyTorch | Sensors & Actuators, 3D Printing | Signal Analysis, Autonomous Systems |
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -42,5 +43,5 @@ I believe that technology not only **solves problems** but also **inspires and d
 
 ---
 
-📫 **Connect with me:**  
+**Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/tania-sofia-arrazola-bello-08988b216/) | [GitHub](https://github.com/tanianwn)
