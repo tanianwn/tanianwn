@@ -1,7 +1,7 @@
 ## Hallo! I am Tania Sofia Arrazola Bello 🍓
 
 👩‍💻 **Robotics & Systems Engineering Student at ITESM**  
-💡 Passionate about **innovation, AI, and coding**  
+💡 Passionate about **innovation, AI, and robotics**  
 🎯 Goal: Transform the world through technology  
 
 ---
