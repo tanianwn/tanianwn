@@ -7,24 +7,25 @@
 ---
 
 ### About Me
-I am a student driven by curiosity and a clear vision: to **change the world of technology** and, through it, make a meaningful impact.  
+I am a student driven by curiosity and a clear vision: to **change the world of technology** and make a meaningful impact.  
 I believe that technology not only **solves problems** but also **inspires and drives new challenges**.  
 
 ---
 
-### Selected Skills & Interests
-- **Programming & Tools:** C, C++, Python, MATLAB/Simulink, FreeRTOS, VHDL, PL/SQL, OpenCV, PyTorch, ROS (basic)  
-- **Hardware & Platforms:** Arduino, Raspberry Pi, FPGA, Sensors & Actuators, 3D Printing, Instrumentation  
-- **Software:** SolidWorks, LTspice, Windows, Linux, MacOS  
-- **Passions:** Robotics, AI, Signal Analysis, Embedded Systems, Autonomous Systems  
+### Skills & Interests
+
+| Programming & Tools | Hardware & Platforms | Interests |
+|--------------------|------------------|----------|
+| C, C++, Python, MATLAB | Arduino, Raspberry Pi, FPGA | Robotics, AI, Embedded Systems |
+| VHDL, OpenCV, PyTorch | Sensors & Actuators, 3D Printing | Signal Analysis, Autonomous Systems |
 
 ---
 
 ### Projects (Highlights)
 - **Vision-based Line Follower:** Real-time image processing algorithm for adaptive line-following  
-- **Differential Robot Control:** Implemented differential drive algorithms for precise navigation  
-- **IoT Habitat Controller:** Developed a multi-device IoT system for temperature, humidity, and lighting management  
-*(More projects available on [GitHub](https://github.com/tanianwn) and E-lumen)*
+- **Differential Robot Control:** Differential drive algorithms for precise navigation  
+- **IoT Habitat Controller:** Multi-device IoT system for temperature, humidity, and lighting  
+*(More projects on [GitHub](https://github.com/tanianwn) and E-lumen)*
 
 ---
 
