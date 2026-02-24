@@ -17,7 +17,7 @@ I believe that technology not only **solves problems** but also **inspires and d
 | Programming & Tools | Hardware & Platforms | Interests |
 |--------------------|------------------|----------|
 | ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FB0000?style=flat&logo=MATLAB&logoColor=white) | Arduino, Raspberry Pi, FPGA | Robotics, AI, Computer Vision |
-| ![VHDL](https://img.shields.io/badge/-VHDL-990000?style=flat&logo=&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314F?style=flat&logo=ros&logoColor=white) | Sensors & Actuators, 3D Printing, Embedded Systems | Control Systems, Computer Vision, AI models, Signal Analysis, Autonomous Systems, Computer Architecture |
+| ![VHDL](https://img.shields.io/badge/-VHDL-990000?style=flat&logo=&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314F?style=flat&logo=ros&logoColor=white) | Sensors & Actuators, 3D Printing, Embedded Systems | Control Systems, Signal Analysis, Autonomous Systems, Computer Architecture |
 
 
 
